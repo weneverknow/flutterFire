@@ -1,4 +1,4 @@
-# flutterFire
+# FlutterFire
 Flutter Fire UI from Flutter 2.8
 <p>NOTE : see the source on Master branch</p>
 before run this project make sure the configuration like below:
