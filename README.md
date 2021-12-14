@@ -14,3 +14,5 @@ before run this project make sure the configuration like below:
 <li>ext.kotlin_version = 1.5.30</li>		
 <li>classpath "com.android.tools.build:gradle:4.0.2</li>
 </ul>
+
+<p><b>Make sure your project connected to Firebase</b></p>
